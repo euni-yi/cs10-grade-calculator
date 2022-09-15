@@ -1,1 +1,38 @@
 /* CSS Style Sheet */
+body {
+    text-align:left;
+    padding: 10px 200px;
+    margin: 20px 100px;
+    border: 50px;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+
+h1 {
+    font-family: 'Mukta', sans-serif; 
+
+}
+
+input {
+    width: 60px
+}
+
+button{
+    background-color: orange;
+    color:black;
+    cursor:pointer;
+    font-family: 'Mukta', sans-serif;
+    padding:5px 10px;
+    border-radius: 20px;
+}
+
+button:hover {
+    background-color: yellow;
+    color: purple;
+    cursor: pointer;
+}
+
+.subtitles {
+    font-size: 20px
+
+}
